@@ -1,0 +1,18 @@
+div {
+    background-color: rgb(235, 131, 131);
+}
+
+.number-three {
+    font-size: 24px;
+}
+
+#number-two {
+    color: blue;
+    font-size: x-large;
+}
+
+#number-four {
+    font-weight: bold;
+    background-color: rgb(35, 231, 35);
+    font-size: 24px;
+}
